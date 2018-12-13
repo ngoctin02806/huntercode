@@ -1,0 +1,29 @@
+.huntercode-main {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.huntercode-img {
+	height: auto;
+	width: 100%;
+}
+
+.huntercode-sizefont li a {
+	font-size: 13px;
+	font-weight: bolder;
+	opacity: 0.5;
+}
+
+.huntercode-height-80 {
+	height: auto;
+	padding: 5em 0;
+}
+
+.huntercode-sizetitle {
+	font-size: 36px;
+	font-weight: 300;
+	color:#4a90e2 !important;
+}
+
+.huntercode-fix-logo {
+	width: 148px;
+}
